@@ -8,7 +8,7 @@ function Education() {
       index: 1,
       education_logo_link: college_logo,
       education_img_link: college_img,
-      college_name: "Universidade Federal de Goiás",
+      college_name: "Yokohama National University",
       college_degree_name: "Bachelor's degree in Computer science",
       education_spam: "2006-2010",
       education_info: [
@@ -29,7 +29,7 @@ function Education() {
         },
       ],
       btn_name: "Visit Website",
-      btn_link: "https://international.ufg.br/",
+      btn_link: "https://www.ynu.ac.jp/",
     },
   ];
   return (
