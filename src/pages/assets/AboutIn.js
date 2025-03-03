@@ -22,7 +22,7 @@ const personal_info_data = [
       {
         index: 1,
         data_type: "Phone",
-        data_value: "+1 (254) 648-6581",
+        data_value: "+55 16 98814-1632",
         icon_class: "fa-solid fa-phone-flip",
         ic_color: "#e64a19",
       },
